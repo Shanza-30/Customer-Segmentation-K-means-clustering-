@@ -47,5 +47,3 @@ Features used:
 ## 📌 Conclusion
 This project successfully segments customers into meaningful groups using K-Means clustering.  
 The results can help businesses understand customer behavior and design targeted marketing strategies.
-
-
